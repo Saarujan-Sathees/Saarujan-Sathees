@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Saarujan, a Grade 12 student currently attending John McCrae Secondary School.<br>I'm currently working on learning and using WebGL as well as developing an online<br>code editor. I'd love to intern at a company to learn more about computer <br>science and computer engineering, an I'm open to collaborate on anything!
+I'm Saarujan, a Grade 12 student currently attending John McCrae Secondary School.<br>I'm currently working on learning and using WebGL as well as developing an online code editor. <br>I'd love to intern at a company to learn more about computer science and computer engineering, and I'm open to collaborate on anything!
 
 
 # 💻 Tech Stack:

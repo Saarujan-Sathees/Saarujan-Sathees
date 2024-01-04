@@ -1,5 +1,8 @@
 <div align="center">
 	<br>
-		<img src="main.svg" width="1200" height="800">
+        <picture>
+            <source media="(prefers-color-scheme: light)" srcset="light-mode.svg" width="1000" height="1200">
+            <source media="(prefers-color-scheme: dark)" srcset="dark-mode.svg" width="1000" height="1200">
+        </picture>
 	<br>
 </div>

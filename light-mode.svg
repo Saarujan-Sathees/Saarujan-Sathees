@@ -18,6 +18,10 @@
                         --text-color: rgb(240 240 240);
                         --shadow-color: rgb(250 250 250 / 20%);
                     }
+
+                    .container {
+                        background-color: red;Te
+                    }
                 }
                 
 				.container {

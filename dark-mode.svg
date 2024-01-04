@@ -10,7 +10,7 @@
                 }
                 
 				.container {
-					width: 996px;
+					width: 1000px;
 					height: 1200px;
 					margin: 0;
 					justify-content: center;
@@ -22,7 +22,7 @@
 
 				#title-widget {
                     display: flex;
-                    width: 970px;
+                    width: 976px;
                     height: 150px;
                     margin: 12px;
 					align-items: center;
@@ -30,7 +30,7 @@
 
                     background-color: var(--primary-color);
 					border-radius: 10px;
-                    font-size: 24px;
+                    font-size: 40px;
                     font-weight: 500;
                     box-shadow: 0 0 6px var(--shadow-color);
                 }

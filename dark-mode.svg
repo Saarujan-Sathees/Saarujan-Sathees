@@ -16,7 +16,6 @@
 					justify-content: center;
 
 					background-color: transparent;
-                    border: 2px solid red;
 					color: var(--text-color);
 					font-family: system-ui;
 				}

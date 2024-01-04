@@ -6,7 +6,7 @@
                     --primary-color: rgb(70 70 70);
                     --secondary-color: rgb(60 60 60);
                     --text-color: rgb(240 240 240);
-                    --shadow-color: rgb(225 225 225 / 20%);
+                    --shadow-color: rgb(25 25 25 / 20%);
                 }
                 
 				.container {

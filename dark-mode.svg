@@ -28,7 +28,6 @@
 					background-color: transparent;
 					color: var(--text-color);
 					font-family: system-ui;
-                    text-shadow: -3px 3px 1px var(--shadow-color);
 				}
 
 				#title-widget {
@@ -44,6 +43,7 @@
                     font-size: 40px;
                     font-weight: 500;
                     box-shadow: 0 0 6px var(--shadow-color);
+                    text-shadow: -3px 3px 1px var(--shadow-color);
                 }
 
                 #description-widget {

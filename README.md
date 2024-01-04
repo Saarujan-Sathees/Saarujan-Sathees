@@ -1,15 +1,46 @@
-# 💫 About Me:
-I'm Saarujan, a Grade 12 student currently attending John McCrae Secondary School.<br>I'm currently working on learning and using WebGL as well as developing an online code editor. <br>I'd love to intern at a company to learn more about computer science and computer engineering, and I'm open to collaborate on anything!
+<svg fill="none" viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+                :root {
+                    --primary-color: white;
+                    --secondary-color: rgb(240, 240, 240);
+                    --text-color: rgb(40 40 40);
+                    --shadow-color: rgb(25 25 25 / 20%);
+                }
+                
+				.container {
+					display: flex;
+					width: 800px;
+					height: 800px;
+					margin: 0;
+					align-items: center;
+					justify-content: center;
 
+					background-color: transparent;
+                    border: 2px solid var(--text-color);
+					color: var(--text-color);
+					font-family: system-ui;
+				}
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat-square) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat-square&logo=Prezi&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saarujan-Sathees&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saarujan-Sathees&theme=vue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saarujan-Sathees&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+				#title-widget {
+                    display: flex;
+                    width: 600px;
+                    height: 100px;
+					align-items: center;
+					justify-content: center;
 
----
-[![](https://visitcount.itsvg.in/api?id=Saarujan-Sathees&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+                    background-color: var(--primary-color);
+					border-radius: 10px;
+                    font-size: 24px;
+                    font-weight: 400;
+                    box-shadow: 0 0 6px var(--shadow-color);
+                }
+			</style>
+			<div class="container">
+                <div id="title-widget">Hey! I'm</div> 
+				
+			</div>
+		</div>
+	</foreignObject>
+</svg>

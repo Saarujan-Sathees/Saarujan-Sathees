@@ -36,8 +36,8 @@
                 }
 
                 #description-widget {
-                    width: 241px;
-                    height: 150px;
+                    width: 400px;
+                    height: 140px;
                     margin: 12px;
                     padding: 30px;
 

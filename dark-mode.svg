@@ -37,7 +37,7 @@
 
                 #description-widget {
                     width: 400px;
-                    height: 150px;
+                    height: 140px;
                     margin: 12px;
                     padding: 30px;
 

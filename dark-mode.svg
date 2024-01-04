@@ -3,7 +3,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
                 :root {
-                    --primary-color: rgb(70 70 70);
+                    --primary-color: rgb(35 70 95);
                     --secondary-color: rgb(60 60 60);
                     --text-color: rgb(240 240 240);
                     --shadow-color: rgb(25 25 25 / 20%);

@@ -6,7 +6,7 @@
                     --primary-color: white;
                     --secondary-color: rgb(240, 240, 240);
                     --text-color: rgb(40 40 40);
-                    --shadow-color: rgb(25 25 25 / 20%);
+                    --shadow-color: rgb(250 250 250 / 280%);
                 }
                 
 				.container {
@@ -45,7 +45,7 @@
                     background-color: var(--primary-color);
                     border-radius: 10px;
                     font-size: 13px;
-                    font-weight: 400;
+                    font-weight: 500;
                     box-shadow: 0 0 6px var(--shadow-color);
                 }
 			</style>

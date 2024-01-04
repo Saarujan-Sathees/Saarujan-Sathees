@@ -36,14 +36,14 @@
                 }
 
                 #description-widget {
-                    width: 241px;
+                    width: 400px;
                     height: 150px;
                     margin: 12px;
                     padding: 30px;
 
                     background-color: var(--primary-color);
                     border-radius: 10px;
-                    font-size: 13px;
+                    font-size: 16px;
                     font-weight: 400;
                     box-shadow: 0 0 6px var(--shadow-color);
                 }

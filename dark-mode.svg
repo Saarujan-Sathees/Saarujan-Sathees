@@ -32,7 +32,7 @@
                     background-color: var(--primary-color);
 					border-radius: 10px;
                     font-size: 24px;
-                    font-weight: 400;
+                    font-weight: 500;
                     box-shadow: 0 0 6px var(--shadow-color);
                 }
 
@@ -45,7 +45,7 @@
                     background-color: var(--primary-color);
                     border-radius: 10px;
                     font-size: 13px;
-                    font-weight: 500;
+                    font-weight: 400;
                     box-shadow: 0 0 6px var(--shadow-color);
                 }
 			</style>

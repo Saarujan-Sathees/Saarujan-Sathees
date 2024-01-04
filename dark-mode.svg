@@ -55,7 +55,7 @@
                     background-color: var(--primary-color);
                     border-radius: 10px;
                     font-size: 16px;
-                    font-weight: 400;
+                    font-weight: 500;
                     box-shadow: 0 0 6px var(--shadow-color);
                 }
 			</style>

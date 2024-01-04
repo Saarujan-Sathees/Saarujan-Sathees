@@ -2,11 +2,13 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-                :root {
-                    --primary-color: white;
-                    --secondary-color: rgb(240, 240, 240);
-                    --text-color: rgb(40 40 40);
-                    --shadow-color: rgb(25 25 25 / 20%);
+                @media (prefers-color-sceme: light) {
+                    :root {
+                        --primary-color: white;
+                        --secondary-color: rgb(240, 240, 240);
+                        --text-color: rgb(40 40 40);
+                        --shadow-color: rgb(25 25 25 / 20%);
+                    }
                 }
 
                 @media (prefers-color-sceme: dark) {

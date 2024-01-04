@@ -8,6 +8,15 @@
                     --text-color: rgb(40 40 40);
                     --shadow-color: rgb(25 25 25 / 20%);
                 }
+
+                @media (prefers-color-sceme: dark) {
+                    :root {
+                        --primary-color: rgb(40 40 40);
+                        --secondary-color: rgb(20 20 20);
+                        --text-color: rgb(240 240 240);
+                        --shadow-color: rgb(250 250 250 / 20%);
+                    }
+                }
                 
 				.container {
 					width: 996px;

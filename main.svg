@@ -36,9 +36,13 @@
                     font-weight: 400;
                     box-shadow: 0 0 6px var(--shadow-color);
                 }
+
+                #title-widget:hover {
+                    background-color: var(--secondary-color);
+                }
 			</style>
 			<div class="container">
-                <div id="title-widget">Hey! I'm</div> 
+                <div id="title-widget">Hey, I'm Saarujan!</div> 
 				
 			</div>
 		</div>
